@@ -1,9 +1,9 @@
 /* Custom CSS properties */
 :root {
-    --primary: #ffffff;
+    
     --dark: #292f36;
     --light: #f4f0ec;
-    --white: #ffffff;
+
     --gradient: linear-gradient(45deg, #cda274, #e6c5a5);
     --shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
