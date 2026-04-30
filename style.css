@@ -56,9 +56,10 @@ body {
 
 /* Header/Logo */
 .logo-fixed {
-    position: fixed;
-    top: 20px; left: 20px;
-    z-index: 1000;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 .logo-img { 
     height: 60px; 
