@@ -98,10 +98,12 @@ body {
 .section-header p { color: #666; font-size: 1.1rem; }
 
 /* Hero Section */
-.hero-section-1 {
-    position: relative; min-height: 100vh;
-    display: flex; align-items: center; justify-content: center;
-    background: url('Main\ Image.jpg') center/cover no-repeat;
+/* style.css */
+.hero-section {
+  background-image: url('/images/building.jpg');
+  height: 500px;
+  background-size: cover;
+  background-position: center;
 }
 .hero-bg {
     position: absolute; top: 0; left: 0; width: 100%; height: 100%;
