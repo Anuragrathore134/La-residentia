@@ -115,7 +115,7 @@ body {
     padding: 60px 40px; border-radius: 20px;
     border: 1px solid rgba(255,255,255,0.3);
     color: var(--white);
-    max-width: auto;
+    max-width: 800px;
     margin-top: 60px;
 
 }
