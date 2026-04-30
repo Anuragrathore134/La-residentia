@@ -115,12 +115,9 @@ body {
     padding: 60px 40px; border-radius: 20px;
     border: 1px solid rgba(255,255,255,0.3);
     color: var(--white);
-    max-width: 800px;
+    max-width: auto;
     margin-top: 60px;
-    display: flex;
-  justify-content: center; /* Horizontal centering */
-  align-items: center;     /* Vertical centering */
-  height: 100vh;
+
 }
 .hero-subtitle { font-size: 1.2rem; margin-bottom: 40px; line-height: 1.8; }
 .hero-stats { display: flex; justify-content: center; gap: 50px; margin-bottom: 40px; }
